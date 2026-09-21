@@ -309,6 +309,21 @@ button[type="submit"]:hover {
     gap: 0.9rem;
 }
 
+.book-cover-wrap {
+    width: 100%;
+    max-width: 360px;
+    margin: 0 auto;
+    border: 1px solid rgba(32, 54, 77, 0.12);
+    background: #0d1d2a;
+    box-shadow: 0 10px 25px rgba(21, 41, 55, 0.12);
+}
+
+.book-cover {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
 .book-card:nth-child(4) {
     background: rgba(255, 255, 255, 0.72);
     border-style: dashed;
