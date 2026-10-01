@@ -62,7 +62,7 @@ a {
 .site-header {
     width: 100%;
     background: var(--navy);
-    color: var(--white);
+    color: var(--navy);
 }
 
 .site-header-inner {
@@ -472,7 +472,7 @@ a.button:hover {
     font-size: 1.8rem;
 }
 
-@media (max-width: 880px) {
+@media (max-width: 600px) {
     .site-watermark {
         width: 72px;
         opacity: 0.42;
